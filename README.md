@@ -40,7 +40,7 @@ Cliente B,800,2023-02-02
 Cliente C,1500,2023-03-10
 Cliente D,900,2023-04-05
 
-
+---
 Q2/ETAPA 2:
 API Rest e Python
 
