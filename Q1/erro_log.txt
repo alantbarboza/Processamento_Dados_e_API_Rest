@@ -1,0 +1,2 @@
+2024-07-03 21:15:29,618:INFO:Iniciando processamento do arquivo: transacoes.csv
+2024-07-03 21:15:29,620:INFO:Processamento concluído. Transações acima de 1000: 2
