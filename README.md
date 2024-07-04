@@ -1,8 +1,4 @@
-# Descrição dos Códigos
-
 Este repositório contém dois scripts Python que realizam operações diferentes: um para obter dados de clima utilizando a API do OpenWeatherMap e outro para processar um arquivo CSV de transações.
-
-## Script para Obter Dados de Clima
 
 ### Requisitos
 
