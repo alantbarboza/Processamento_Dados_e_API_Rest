@@ -1,11 +1,27 @@
+# Descrição dos Códigos
+
+Este repositório contém dois scripts Python que realizam operações diferentes: um para obter dados de clima utilizando a API do OpenWeatherMap e outro para processar um arquivo CSV de transações.
+
+## Script para Obter Dados de Clima
+
+### Requisitos
+
+- Python 3.7 ou superior
+- Pacotes necessários: aiohttp, python-dotenv
+
+### Configuração
+
+Antes de executar o script, certifique-se de criar um arquivo .env na raiz do projeto com a seguinte variável:
+
+```dotenv
+weather_key=your_weather_api_key
 
 
 
 
 
-
-# Processamento_Dados_e_API_Rest
-
+--
+--
 Q1/ETAPA 1:
 Automatização de Processamento de Dados CSV
 
