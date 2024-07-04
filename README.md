@@ -15,7 +15,7 @@ Antes de executar o script, certifique-se de criar um arquivo .env na raiz do pr
 
 ```dotenv
 weather_key=your_weather_api_key
-
+```
 
 
 
