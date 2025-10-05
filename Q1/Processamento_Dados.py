@@ -3,7 +3,7 @@ import logging
 
 # Configuração de logging para registrar erros         
 logging.basicConfig(filename='erro_log.txt', level=logging.INFO,
-                    format='%(asctime)s:%(levelname)s:%(message)s')
+                    format='%(asctime)s:%(levelname)s:%(message)s', encoding='utf-8')
 
 # Nome dos arquivos
 arquivo_entrada = 'transacoes.csv'
@@ -49,3 +49,4 @@ def processar_csv(arquivo_entrada, arquivo_saida, limite=1000):
 
 # Executa o processamento do CSV
 processar_csv(arquivo_entrada, arquivo_saida)
+
